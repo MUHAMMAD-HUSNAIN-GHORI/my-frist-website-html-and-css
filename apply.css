@@ -1,0 +1,46 @@
+div{
+    background-color: khaki;
+}
+h1{
+    font-weight:bold;
+    color: black;
+    background-image: linear-gradient(rgb(0, 183, 255), rgb(200, 0, 255));
+    align-items: center;
+    width: max-content;
+    font-size: 50px;
+}
+ul li{
+    font-weight: bold;
+font-size: x-large;
+    width: max-content;
+    background-image: linear-gradient(rgb(0, 183, 255), rgb(200, 0, 255));
+}
+form{
+    font-weight: bold;
+    background-color:khaki;
+    font-size: large;
+
+}
+label{
+    font-size: x-large;
+    font-weight: bold;
+}
+table{
+    background-color: khaki;
+    font-size: x-large;
+    font-style: italic;
+    width: max-content;
+}
+input{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+sup{
+    color: red;
+}
+form img{
+    float: right;
+    height: 1150px;
+    width: 1300px;
+}

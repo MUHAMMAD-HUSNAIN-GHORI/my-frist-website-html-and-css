@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(orange,yellow);
+/* background-image: url(https://usindh.edu.pk/resource/images/dept/dept_about_image1685522016.jpg);   */
+    width: 100%;
+    height: 105vh;
+    background-size: cover;
+    background-position:cover;
+    font-family: Arial;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background-color: blueviolet;
+    width: max-content;
+}
+p{
+    font-size: xx-large;
+}
+li{
+    font-size: xx-large;
+}
+
